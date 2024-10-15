@@ -14,7 +14,7 @@ The **Hand Gesture Car with Obstacle Avoider** is an innovative project that com
 
 Check out the working demo of the project below:
 
-[![Demo Video](path/to/your/video_thumbnail.jpg)](https://www.youtube.com/watch?v=YuDOzW4uSL0)
+[![Demo Video]](https://www.youtube.com/watch?v=YuDOzW4uSL0)
 
 ---
 
