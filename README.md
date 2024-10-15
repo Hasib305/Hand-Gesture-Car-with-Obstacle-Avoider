@@ -82,9 +82,8 @@ By leveraging wireless communication via the **nRF24L01 module**, the car can op
 ---
 
 ## ⚙️ Flow Chart
-Insert your flow chart here.
 
-![Flow Chart](path/to/flow_chart.png)
+![Picture9](https://github.com/user-attachments/assets/aef2c7cc-6003-40a2-89a3-0c90c192a942)
 
 ---
 
