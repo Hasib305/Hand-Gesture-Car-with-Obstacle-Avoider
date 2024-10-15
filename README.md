@@ -1,8 +1,6 @@
 # Hand Gesture Car with Obstacle Avoider
-![Picture1](https://github.com/user-attachments/assets/66d203b9-f8c4-431d-aa05-b28a32c6c1d5)
-![Picture3](https://github.com/user-attachments/assets/8e50fba1-56d6-41b7-80d8-fd6928cd8b4c)
-
-![Picture2](https://github.com/user-attachments/assets/7e8e4cee-7546-478b-93b0-6676e3f59781)
+![Picture7](https://github.com/user-attachments/assets/a4e64031-67dd-47a2-9d87-b05066ee70d7)
+![Picture6](https://github.com/user-attachments/assets/e52cbac3-0989-4bf8-8f20-cb7b22a9568f)
 
 ## 🚗 Project Overview
 The **Hand Gesture Car with Obstacle Avoider** is an innovative project that combines robotics, gesture-based control, and wireless communication. It uses an **Arduino Uno**, a **gyro sensor**, and the **nRF24L01 module** to enable real-time car movement based on hand gestures. The car also features **ultrasonic sensors** for obstacle detection and avoidance, making it both interactive and intelligent.
